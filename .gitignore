@@ -1,4 +1,11 @@
 **/__pycache__
-data
-checkpoint
-runs
+data/
+checkpoint/
+runs/
+datasets/
+result/
+*.png
+*.jpg
+*.tif
+*~
+.idea
